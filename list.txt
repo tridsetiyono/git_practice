@@ -1,4 +1,13 @@
+Fruit
 Bananas
 Oranges
 Strawberries
 Apples
+
+Meat
+
+Dairy
+
+Household
+
+Pet
